@@ -22,6 +22,9 @@ The code is written in postgreSQL.You can change it according to your DBMS.
 
 Dataset link:https://drive.google.com/file/d/1Sn3JjpYJz27xhuoirfjGXKFRZOxZ3860/view?usp=drive_link
 
+## Feedback and Support
+For any queries, feedback or suggestions please reach out to: rohan0804singh@gmail.com
+
 
 
 
