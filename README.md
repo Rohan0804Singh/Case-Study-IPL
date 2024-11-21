@@ -17,9 +17,6 @@ possibility of (s)he winning the highest no. of points – in simple words, iden
 has the highest jump in its total points (in terms of percentage) from the previous year to current
 year.
 
-## Note: 
-The code is written in postgreSQL.You can change it according to your DBMS.
-
 Dataset link:https://drive.google.com/file/d/1Sn3JjpYJz27xhuoirfjGXKFRZOxZ3860/view?usp=drive_link
 
 ## Feedback and Support
